@@ -1,0 +1,12 @@
+{
+    "wifiSsid": "",
+    "wifiPass": "",
+    "hostname": "unitcams3",
+    "frameSize": "VGA",
+    "jpegQuality": 12,
+    "fps": 15,
+    "vflip": true,
+    "hmirror": true,
+    "authUser": "admin",
+    "authPass": ""
+}
